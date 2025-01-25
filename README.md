@@ -1,3 +1,4 @@
+![logo](https://github.com/Debjyoti121/Debjyoti121/blob/main/Black%20Purple%20Modern%20Name%20Twitch%20Banner.png)
 <h1 align="center">Hi 👋, I'm Debjyoti Sarkar</h1>
 <h3 align="center">Crafting Web Experiences, Designing Games, Bringing Ideas to Life in 3D!</h3>
 
